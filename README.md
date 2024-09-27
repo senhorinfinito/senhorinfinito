@@ -14,7 +14,7 @@ I'm a Computer Vision Engineer II at [Wobot Intelligence](https://wobot.ai/), pa
     <h2>🚀 GitHub Profile Stats</h2>
     <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=senhorinfinito&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
     <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senhorinfinito&layout=compact&theme=dracula" alt="Top Languages" />
-<!--     <img height="180" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=senhorinfinito&theme=radical" alt="Streak Stats" /> -->
+    <img height="180" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=senhorinfinito&theme=radical" alt="Streak Stats" />
 </div>
 
 ### 🛠️ **Skills & Tools**

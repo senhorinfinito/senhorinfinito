@@ -8,7 +8,9 @@ I'm a Computer Vision Engineer II at [Wobot Intelligence](https://wobot.ai/), pa
 
 ### Updates 
 
-🧠 I make simple things with neural networks. Currently, I'm learning advanced computer vision concepts.  🤝 I’m looking to collaborate on Data Science, Machine Learning, and Deep Learning projects.
+🧠 I make simple things with neural networks. Currently, I'm learning advanced computer vision concepts.  
+
+🤝 I’m looking to collaborate on Data Science, Machine Learning, and Deep Learning projects.
 
 <div align="center">
     <h2>🚀 GitHub Profile Stats</h2>
